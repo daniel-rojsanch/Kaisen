@@ -33,7 +33,7 @@ ___
 
 |Nombre | Puesto| Area  |
 | :--- | :---: | ---: |
-|Daniel Rojas Sánchez | Analista Sr Mejora Continua| Mejora Continua  |
+| 🤖 Daniel Rojas Sánchez | Analista Sr Mejora Continua| Mejora Continua  |
 |Erick Esteban Guzmán | Analista Mejora Continua| Mejora Continua  |
 |Rangel Figueroa Samantha Rocio | Líder De Talento Y Cultura|Talento Y Cultura|
 |Márquez Espino Medardo | Gerente Jr Rrrp| Gerencia Rrrp 3Pl Y Vas  |
@@ -46,16 +46,10 @@ ___
 ### 📌 ***Selección de temas para contrucción de tablero***
 
 
-- Los tableros a construir deberán estar relacionados con algun objetivo del faro
-- Se asignara de acuerdo a la prioridad
-
-
-
-|Atributo| Nivel 1| Nivel 2 | Nivel 3 |
-|:---:   | :---:  | :---:   | :---:   |
-|Se cuenta con los datos      | |  |  |
-|Desarrolo del modelo de datos| |  |  |
-|Desarrolo del modelo de datos| |  |  |
+- **Primer filtro:** Los tableros a construir deberán estar relacionados con algun objetivo del faro
+- **El tiempo de construcción:**
+    - Disponibilidad de datos
+    - Dificultad del deasrrolo del modelo de datos
 
 
 <img src="img/faro.jpg" alt="Power BI" width="550" />
