@@ -54,7 +54,7 @@ Los tableros a construir deberán estar relacionados con algun objetivo del faro
 <img src="img/faro.jpg" alt="Power BI" width="550" />
 
 
-### 📌 Lista de tableros contruidos
+### 📌 Lista de tableros construidos
 
 - [x] Tablero Talento y Cultura
 - [x] Tablero DAS
