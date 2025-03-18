@@ -49,7 +49,7 @@ ___
 - **Primer filtro:** Los tableros a construir deberán estar relacionados con algun objetivo del faro
 - **El tiempo de construcción:**
     - Disponibilidad de datos
-    - Dificultad del deasrrolo del modelo de datos
+    - Dificultad del desarrollo del modelo de datos
 
 
 <img src="img/faro.jpg" alt="Power BI" width="550" />
