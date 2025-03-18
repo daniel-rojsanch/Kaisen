@@ -56,6 +56,6 @@ Los tableros a contruir deberán estar relacionados con algun objetivo del faro
 
 ### 📌 Lista de tableros contruidos
 
-- [ x ] ded 
+- [x] Tablero Talento y Cultura
 ## 
 
