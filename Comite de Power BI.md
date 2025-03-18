@@ -62,8 +62,8 @@ ___
 - [x] Tablero 3PL
 - [x] Tablero Nivel de Servico Integral
 - [x] Tablero Costo y Viajes Transporte
-- [x] Capacidades
-- [x] Alertas de Procesos y SHEyMA
+- [x] Tablero de Capacidades
+- [x] Tablero Alertas de Procesos y SHEyMA
 
 ## 
 
