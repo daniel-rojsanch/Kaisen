@@ -1,6 +1,6 @@
 # **Comite de Power BI**
 
-| <img src="img/bi.png" alt="Power BI" width="150" /> | <img src="img/logo.png" alt="Power BI" width="170" /> |
+| <img src="img/bi.png" alt="Power BI" width="150" /> | <img src="img/Logo.png" alt="Power BI" width="170" /> |
 |:---:|:---:|
 
 ____
@@ -48,7 +48,7 @@ ___
 ### 📌 ***Selección de temas para contrucción de tablero***
 
 
-Los tableros a contruir deberán estar relacionados con algun objetivo del faro
+Los tableros a construir deberán estar relacionados con algun objetivo del faro
 
 
 <img src="img/faro.jpg" alt="Power BI" width="550" />
@@ -57,5 +57,12 @@ Los tableros a contruir deberán estar relacionados con algun objetivo del faro
 ### 📌 Lista de tableros contruidos
 
 - [x] Tablero Talento y Cultura
+- [x] Tablero DAS
+- [x] Tablero 3PL
+- [x] Tablero Nivel de Servico Integral
+- [x] Tablero Costo y Viajes Transporte
+- [x] Capacidades
+- [x] Alertas de Procesos y SHEyMA
+
 ## 
 
