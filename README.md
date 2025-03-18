@@ -1,6 +1,13 @@
-# Kaisen
-Temario
----
+# Mejora Continua 🎯
+
+
+~~~~
+Daniel Rojas Sánchez | Analista Sr Mejora Continua
+~~~~
+
+El siguiente material tiene como objetivo ser el manual del area de mejora continua
+
+## 🛠️ Indice
 
 ### **1. Introducción a la Mejora Continua**
    - ¿Qué es la mejora continua?
@@ -111,6 +118,6 @@ Temario
      - Coursera, Udemy, LinkedIn Learning.
    - Comunidades y foros de mejora continua.
 
----
 
-Este plan de estudios te permitirá profundizar en los conceptos clave de **Kaizen**, **Lean Manufacturing** y **Six Sigma**, además de desarrollar habilidades prácticas para implementar mejoras en tu organización. Si necesitas más detalles sobre algún tema en particular, ¡no dudes en pedírmelo! 😊
+
+
