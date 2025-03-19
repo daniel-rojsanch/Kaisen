@@ -1,9 +1,11 @@
 # **Comite de Power BI**
 
-| <img src="img/bi.png" alt="Power BI" width="150" /> | <img src="img/Logo.png" alt="Power BI" width="170" /> |
-|:---:|:---:|
+
+| <img src="img/c.jpeg" alt="Power BI" width="380" /> | <img src="img/bi.png" alt="Power BI" width="150" /> | <img src="img/Logo.png" alt="Power BI" width="170" /> |
+|:---:|:---:|:---:|
 
 ____
+
 
 
 ### 📌 ***Importancia de Power BI en la empresa***  
@@ -64,6 +66,8 @@ ___
 - [x] Tablero Costo y Viajes Transporte
 - [x] Tablero de Capacidades
 - [x] Tablero Alertas de Procesos y SHEyMA
+- [x] Tablero Produbot
+- [x] Tablero Incentivos
 
 ## 
 
