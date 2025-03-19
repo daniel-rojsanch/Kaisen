@@ -64,6 +64,8 @@ ___
 - [x] Tablero Costo y Viajes Transporte
 - [x] Tablero de Capacidades
 - [x] Tablero Alertas de Procesos y SHEyMA
+- [x] Tablero Produbot
+- [x] Tablero Incentivos
 
 ## 
 
